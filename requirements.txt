@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
+ucimlrepo
+matplotlib.pyplot
+scikit-learn
 -e .
